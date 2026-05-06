@@ -42,7 +42,7 @@ if user_message:
     
     # send the user message to the n8n webhook
     response = requests.post(
-        "https://mayank46.app.n8n.cloud/webhook/a9d1b658-4439-4d3f-ab78-0441cb1eaa40",  # replace with your n8n webhook URL
+        "",  # replace with your n8n webhook URL
         json={"message": user_message}
     )
     
