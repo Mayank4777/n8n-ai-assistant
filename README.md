@@ -49,19 +49,19 @@ The assistant processes user requests through an AI agent connected with Groq an
 
 ## Project Screenshots
 
+<img width="1920" height="1080" alt="gmail" src="https://github.com/user-attachments/assets/b2bb9df9-cfd0-4152-8bde-dd9803647f70" />
+<img width="1920" height="1080" alt="doc created" src="https://github.com/user-attachments/assets/692cf709-4cf3-4047-a273-e83f725dbe90" />
+<img width="1920" height="1080" alt="calendar event" src="https://github.com/user-attachments/assets/2c440aae-b454-48c5-abaa-e2b9ef3ef1f2" />
+<img width="1920" height="1080" alt="streamlitchat" src="https://github.com/user-attachments/assets/148d4b0a-b1f2-4a64-b9d4-a820c5e508c8" />
+
+
 ### Chat Interface
 
-![Chat UI](screenshots/chat-ui.png)
+<img width="1920" height="1020" alt="streamlitui" src="https://github.com/user-attachments/assets/3cf0ae61-a42e-4c5e-8bc8-05b2a7829ebd" />
+
 
 ### n8n Workflow
 
-![Workflow](screenshots/workflow.png)
+<img width="1920" height="1080" alt="n8n-workflow" src="https://github.com/user-attachments/assets/c6ed536a-21e8-4afe-8e2b-55d3af5c8d09" />
 
 ---
-
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/ai-personal-assistant-n8n.git
